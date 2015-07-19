@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\client.o
+./debug\gamemap.o
+./debug\gamecell.o
+./debug\gamefields.o
+./debug\fourpalubs.o
+./debug\threepalubs.o
+./debug\twopalubs.o
+./debug\onepalub.o
+./debug\moc_client.o
+./debug\moc_gamemap.o
+./debug\moc_gamecell.o
+./debug\moc_gamefields.o
+);

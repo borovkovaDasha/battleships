@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\client.o
+./release\gamemap.o
+./release\gamecell.o
+./release\gamefields.o
+./release\fourpalubs.o
+./release\threepalubs.o
+./release\twopalubs.o
+./release\onepalub.o
+./release\moc_client.o
+./release\moc_gamemap.o
+./release\moc_gamecell.o
+./release\moc_gamefields.o
+);
